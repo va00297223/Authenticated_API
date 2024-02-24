@@ -1,0 +1,12 @@
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\bin\Debug\net8.0\ShoppingCart_Model.deps.json
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\bin\Debug\net8.0\ShoppingCart_Model.dll
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\bin\Debug\net8.0\ShoppingCart_Model.pdb
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net8.0\ShoppingCart_Model.csproj.AssemblyReference.cache
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net8.0\ShoppingCart_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net8.0\ShoppingCart_Model.AssemblyInfoInputs.cache
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net8.0\ShoppingCart_Model.AssemblyInfo.cs
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net8.0\ShoppingCart_Model.csproj.CoreCompileInputs.cache
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net8.0\ShoppingCart_Model.dll
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net8.0\refint\ShoppingCart_Model.dll
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net8.0\ShoppingCart_Model.pdb
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net8.0\ref\ShoppingCart_Model.dll

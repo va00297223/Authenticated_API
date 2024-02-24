@@ -1,0 +1,5 @@
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net472\ShoppingCart_Model.csproj.AssemblyReference.cache
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net472\ShoppingCart_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net472\ShoppingCart_Model.AssemblyInfoInputs.cache
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net472\ShoppingCart_Model.AssemblyInfo.cs
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_Model\obj\Debug\net472\ShoppingCart_Model.csproj.CoreCompileInputs.cache
