@@ -92,5 +92,56 @@ namespace ShoppingCartTest
             // Assert
             Assert.IsTrue(product.Price >= 0);
         }
+
+        [TestClass]
+        public class CategoryModelTests
+        {
+            [TestMethod]
+            public void CategoryModel_CreateInstance()
+            {
+                // Arrange & Act
+                var category = new Category_Model();
+
+                // Assert
+                Assert.IsNotNull(category);
+            }
+
+            [TestMethod]
+            public void CategoryModel_GettersAndSetters()
+            {
+                // Arrange & Act
+                var category = new Category_Model();
+
+                // Assert
+                Assert.IsNotNull(category.Id);
+                Assert.IsNotNull(category.Description);
+            }
+
+            [TestMethod]
+            public void CategoryModel_EqualityCheck()
+            {
+                // Arrange
+                var category1 = new Category_Model { Id = 1, Description = "Category 1" };
+                var category2 = new Category_Model { Id = 1, Description = "Category 1" };
+                var category3 = new Category_Model { Id = 2, Description = "Category 2" };
+
+                // Assert
+                Assert.AreEqual(category1, category2);
+                Assert.AreNotEqual(category1, category3);
+            }
+
+            [TestMethod]
+            public void CategoryModel_CodeEqualityCheck()
+            {
+                // Arrange
+                var category1 = new Category_Model { Id = 1, Description = "Category 1" };
+                var category2 = new Category_Model { Id = 1, Description = "Category 1" };
+                var category3 = new Category_Model { Id = 2, Description = "Category 2" };
+
+                // Assert
+                Assert.AreEqual(category1.GetHashCode(), category2.GetHashCode());
+                Assert.AreNotEqual(category1.GetHashCode(), category3.GetHashCode());
+            }
+        }
     }
 }

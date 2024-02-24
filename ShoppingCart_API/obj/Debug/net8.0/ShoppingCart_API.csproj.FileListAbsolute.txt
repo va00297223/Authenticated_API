@@ -284,3 +284,4 @@ D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_API\obj\Debug\n
 D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_API\obj\Debug\net8.0\ShoppingCart_API.pdb
 D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_API\obj\Debug\net8.0\ShoppingCart_API.genruntimeconfig.cache
 D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_API\obj\Debug\net8.0\ref\ShoppingCart_API.dll
+D:\MAPD\Backend\Authenticated_API\Authenticated_API\ShoppingCart_API\obj\Debug\net8.0\ShoppingCart_API.sourcelink.json
