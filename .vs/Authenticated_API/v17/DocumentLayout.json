@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|d:\\mapd\\backend\\authenticated_api\\authenticated_api\\shoppingcart_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|solutionrelative:shoppingcart_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|d:\\mapd\\backend\\authenticated_api\\authenticated_api\\shoppingcart_api\\data_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|solutionrelative:shoppingcart_api\\data_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|d:\\mapd\\backend\\authenticated_api\\authenticated_api\\shoppingcart_api\\controllers\\product_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|solutionrelative:shoppingcart_api\\controllers\\product_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|d:\\mapd\\backend\\authenticated_api\\authenticated_api\\shoppingcart_api\\securitydata_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|solutionrelative:shoppingcart_api\\securitydata_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|d:\\mapd\\backend\\authenticated_api\\authenticated_api\\shoppingcart_api\\controllers\\shoppingcart_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|solutionrelative:shoppingcart_api\\controllers\\shoppingcart_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|d:\\mapd\\backend\\authenticated_api\\authenticated_api\\shoppingcart_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C9691B-545A-4135-9C2A-C936C487CD8B}|ShoppingCart_API\\ShoppingCart_API.csproj|solutionrelative:shoppingcart_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A28A422-2390-4D00-98D3-DAA8CEA5E48C}|ShoppingCart_Model\\ShoppingCart_Model.csproj|d:\\mapd\\backend\\authenticated_api\\authenticated_api\\shoppingcart_model\\product_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A28A422-2390-4D00-98D3-DAA8CEA5E48C}|ShoppingCart_Model\\ShoppingCart_Model.csproj|solutionrelative:shoppingcart_model\\product_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A28A422-2390-4D00-98D3-DAA8CEA5E48C}|ShoppingCart_Model\\ShoppingCart_Model.csproj|d:\\mapd\\backend\\authenticated_api\\authenticated_api\\shoppingcart_model\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A28A422-2390-4D00-98D3-DAA8CEA5E48C}|ShoppingCart_Model\\ShoppingCart_Model.csproj|solutionrelative:shoppingcart_model\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A941C7FA-9E6A-4C08-9A88-4295F5DEBC5F}|ShoppingCartTest\\ShoppingCartTest.csproj|d:\\mapd\\backend\\authenticated_api\\authenticated_api\\shoppingcarttest\\shoppintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A941C7FA-9E6A-4C08-9A88-4295F5DEBC5F}|ShoppingCartTest\\ShoppingCartTest.csproj|solutionrelative:shoppingcarttest\\shoppintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +58,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ShoppingCart_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ShoppingCart_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:15:19.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCart_Controller.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\Controllers\\ShoppingCart_Controller.cs",
+              "RelativeDocumentMoniker": "ShoppingCart_API\\Controllers\\ShoppingCart_Controller.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\Controllers\\ShoppingCart_Controller.cs",
+              "RelativeToolTip": "ShoppingCart_API\\Controllers\\ShoppingCart_Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:13:45.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Data_Context.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\Data_Context.cs",
+              "RelativeDocumentMoniker": "ShoppingCart_API\\Data_Context.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\Data_Context.cs",
+              "RelativeToolTip": "ShoppingCart_API\\Data_Context.cs",
+              "ViewState": "AQIAAAUAAADAZmZmZiYgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:13:37.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_Model\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ShoppingCart_Model\\ShoppingCart.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_Model\\ShoppingCart.cs",
+              "RelativeToolTip": "ShoppingCart_Model\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:13:04.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product_Controller.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\Controllers\\Product_Controller.cs",
+              "RelativeDocumentMoniker": "ShoppingCart_API\\Controllers\\Product_Controller.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\Controllers\\Product_Controller.cs",
+              "RelativeToolTip": "ShoppingCart_API\\Controllers\\Product_Controller.cs",
+              "ViewState": "AQIAAAcAAADAzMzMzMwnwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:11:47.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product_Model.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_Model\\Product_Model.cs",
+              "RelativeDocumentMoniker": "ShoppingCart_Model\\Product_Model.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_Model\\Product_Model.cs",
+              "RelativeToolTip": "ShoppingCart_Model\\Product_Model.cs",
+              "ViewState": "AQIAAAgAAACANDMzMzMLwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:11:43.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingCart_API\\Program.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\Program.cs*",
+              "RelativeToolTip": "ShoppingCart_API\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:11:04.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityData_Context.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\SecurityData_Context.cs",
+              "RelativeDocumentMoniker": "ShoppingCart_API\\SecurityData_Context.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCart_API\\SecurityData_Context.cs",
+              "RelativeToolTip": "ShoppingCart_API\\SecurityData_Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:14:27.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ShoppingCartTest.csproj",
               "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCartTest\\ShoppingCartTest.csproj",
               "RelativeDocumentMoniker": "ShoppingCartTest\\ShoppingCartTest.csproj",
@@ -39,13 +175,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "ShoppinTest.cs",
               "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCartTest\\ShoppinTest.cs",
               "RelativeDocumentMoniker": "ShoppingCartTest\\ShoppinTest.cs",
               "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Authenticated_API\\ShoppingCartTest\\ShoppinTest.cs",
               "RelativeToolTip": "ShoppingCartTest\\ShoppinTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswC4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T02:33:14.724Z",
               "EditorCaption": ""
